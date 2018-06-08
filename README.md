@@ -10,8 +10,8 @@
 
 <p align="center">
     <a target="_blank">
-        <img src="https://github.com/1974892005/chi/image/QQ截图20180608210049.png" alt="IMUI" width=960/>
-       <img src="https://github.com/1974892005/chi/image/QQ截图20180608210059.png" alt="IMUI" width=960/>
+        <img src="https://github.com/1974892005/chi/image/1.png" alt="IMUI" width=960/>
+       <img src="https://github.com/1974892005/chi/image/2.png" alt="IMUI" width=960/>
     </a>
     </a>
 </p>
