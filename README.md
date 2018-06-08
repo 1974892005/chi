@@ -10,8 +10,8 @@
 
 <p align="center">
     <a target="_blank">
-        <img src="https://github.com/1974892005/chi/图像/1.png" alt="qq1974892005" width=960/>
-       <img src="https://github.com/1974892005/chi/图像/2.png" alt="qq1974892005" width=960/>
+        <img src="https://github.com/1974892005/chi/blob/master/image/1.png" alt="qq1974892005" width=960/>
+       <img src="https://github.com/1974892005/chi/blob/master/image/2.png" alt="qq1974892005" width=960/>
     </a>
     </a>
 </p>
